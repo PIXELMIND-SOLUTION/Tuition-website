@@ -4,7 +4,7 @@ import { FiSearch } from "react-icons/fi";
 
 const Hero = () => {
   return (
-    <section className="bg-[#f9f6f3] py-12 sm:py-16 md:py-20 lg:py-24">
+    <section className="bg-[#f0f8ff] py-12 sm:py-16 md:py-20 lg:py-24">
       <div className="container mx-auto px-4 sm:px-6 md:px-8 lg:px-12 flex flex-col md:flex-row items-center gap-10">
         
         {/* Left content */}

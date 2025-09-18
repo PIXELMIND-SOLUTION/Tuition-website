@@ -30,7 +30,7 @@ const steps = [
 
 const FlowChatSteps = () => {
   return (
-    <section className="bg-gray-50 py-12 px-4">
+    <section className="py-12 px-4">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-10">
           How It Works

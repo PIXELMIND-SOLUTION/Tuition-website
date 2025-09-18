@@ -19,7 +19,7 @@ const subjects = [
 
 const SubjectPicker = () => {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-[#f7f3ef] px-4">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-[#f0f8ff] px-4">
       {/* Heading */}
       <h1 className="text-3xl md:text-5xl font-bold text-center mb-10">
         Pick a subject to get started

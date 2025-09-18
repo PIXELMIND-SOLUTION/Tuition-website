@@ -23,7 +23,7 @@ const Pricing = () => {
   ];
 
   return (
-    <section id="pricing" className="py-16">
+    <section id="pricing" className="py-16 bg-[#f0f8ff]">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-4">Affordable Pricing Plans</h2>
         <p className="text-gray-600 text-center mb-12 max-w-2xl mx-auto">Choose the plan that works best for you and start learning today.</p>
